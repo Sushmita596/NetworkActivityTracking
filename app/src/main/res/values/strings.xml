@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SampleApp</string>
+    <string name="privacy_terms">Privacy Terms</string>
+    <string name="we_collect_information_about_network_activity_to_keep_you_updated_with_new_services_and_offers">We collect information about network activity to keep you updated with new services and offers.</string>
+    <string name="accept">Accept</string>
+    <string name="deny">Deny</string>
+    <string name="serial">\Serial Number: \</string>
+</resources>
